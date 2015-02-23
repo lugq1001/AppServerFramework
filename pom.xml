@@ -11,8 +11,8 @@
 	<url>http://maven.apache.org</url>
 
 	<modules>
-		<module>../logic</module>
-		<module>../common</module>
+		<module>../AppServerLogic</module>
+		<module>../AppServerCommon</module>
 	</modules>
 
 
