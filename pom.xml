@@ -23,7 +23,6 @@
 		<log4j-version>2.1</log4j-version>
 		<jackson-version>2.5.1</jackson-version>
 		<commons-lang3-version>3.3.2</commons-lang3-version>
-		<httpclient-version>4.4</httpclient-version>
 		<jave-ee-version>7.0</jave-ee-version>
 	</properties>
 
@@ -83,6 +82,7 @@
 			<artifactId>jackson-dataformat-xml</artifactId>
 			<version>${jackson-version}</version>
 		</dependency>
+		
 	</dependencies>
 
 	<build>
