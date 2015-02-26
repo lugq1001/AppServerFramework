@@ -12,6 +12,7 @@
 
 	<modules>
 		<module>../AppServerLogic</module>
+		<module>../AppServerFile</module>
 		<module>../AppServerCommon</module>
 	</modules>
 
